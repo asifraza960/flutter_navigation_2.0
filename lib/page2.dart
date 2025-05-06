@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Secondpage extends StatelessWidget {
+  static var pageName;
+
   const Secondpage({super.key});
 
   @override
